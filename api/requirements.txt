@@ -1,0 +1,16 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+SQLAlchemy>=2.0,<3
+PyJWT>=2.9,<3
+pydantic>=2.9,<3
+httpx>=0.27,<1
+pytest>=8,<9
+python-multipart>=0.0.18,<1
+Pillow>=10.4,<12
+reportlab>=4.2,<5
+pytesseract>=0.3.13,<1
+psycopg[binary]>=3.2,<4
+neo4j>=5.26,<6
+cryptography>=43,<46
+alembic>=1.14,<2
+python-dotenv>=1.0,<2

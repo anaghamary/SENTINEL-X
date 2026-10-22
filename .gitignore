@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+api/evidence_store/
+.env
+.venv/
+node_modules/
+dist/
+.pytest_cache/
+*.tsbuildinfo
